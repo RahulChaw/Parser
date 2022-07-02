@@ -1,0 +1,1 @@
+/Users/rahulchawda/Downloads/ECS140A/Project_ECS140A/parser/target/debug/parser: /Users/rahulchawda/Downloads/ECS140A/Project_ECS140A/parser/src/main.rs /Users/rahulchawda/Downloads/ECS140A/Project_ECS140A/parser/src/out_xhtml.rs /Users/rahulchawda/Downloads/ECS140A/Project_ECS140A/parser/src/parser.rs

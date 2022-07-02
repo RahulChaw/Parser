@@ -1,0 +1,16 @@
+int Count(int val);
+
+void main(){
+    Int Value;
+    
+    Value = Count(4);
+}
+
+int Count(int val){
+    int num = 0;
+
+    while(val > num){
+        num = += 1; 
+    }
+    return num;
+}
